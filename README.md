@@ -20,10 +20,9 @@
 
 <br/>
 
-<h2 style="text-align: center;">Find me at</h2>
-<address align="center">
-    <a  href="mailto:perezluismariano@hotmail.com" rel="nofollow">perezluismariano@hotmail.com</a>
-</address>
+<h2 align="center">Find me at</h2>
+<p  align="center" ><a href="mailto:perezluismariano@hotmail.com" rel="nofollow">perezluismariano@hotmail.com</a></p>
+
 
 
 
