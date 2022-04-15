@@ -1,0 +1,29 @@
+.title-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+
+.title-main_gif{
+    height: 30px;
+}
+
+.title-sec1{
+    text-align: center;
+}
+.sec1{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px; 
+}
+
+.sec2_email{
+    font-style: normal;
+    text-decoration: none;
+    border-bottom: 2px #4646F7;
+}
