@@ -4,6 +4,7 @@
 <h1 align="center">
     Hi there
     <img style="height: 30px;" class="title-main_gif" src="./assets/icons/wave.gif" />
+    , I'm Luis Mariano
 </h1>
 
 
@@ -20,9 +21,9 @@
 
 <br/>
 
-<h2 align="center">Find me at</h2>
-<p  align="center" ><a href="mailto:perezluismariano@hotmail.com" rel="nofollow">perezluismariano@hotmail.com</a></p>
+<h2 align="center">Contact me at</h2>
+<p  align="center" >   :e-mail:<a href="mailto:perezluismariano@hotmail.com" rel="nofollow">perezluismariano@hotmail.com</a></p>
 
-
+ 
 
 
