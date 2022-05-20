@@ -3,12 +3,13 @@
 
 <h1 align="center">
     Hi there
-    <img width="30px" class="title-main_gif" src="./assets/icons/wave.gif" />
+    <img width="40px" class="title-main_gif" src="./assets/icons/wave.gif" />
     , I'm Luis Mariano
 </h1>
 
 
-<img style="width: 100%" src="./assets/image/cover_rain-meteorite.gif" />
+
+<img  width="1000px" src="./assets/image/cover_rain-meteorite.gif" />
 <br/>
 
 <h2 align="center">Skills</h2>
