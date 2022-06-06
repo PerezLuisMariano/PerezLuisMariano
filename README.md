@@ -9,7 +9,7 @@
 
 
 
-<img  width="1000px" src="./assets/image/cover_rain-meteorite.gif" />
+<img  width="100%" src="./assets/image/cover_rain-meteorite.gif" />
 <br/>
 
 <h2 align="center">Skills</h2>
