@@ -3,7 +3,7 @@
 
 <h1 align="center">
     Hi there
-    <img width="40px" class="title-main_gif" src="./assets/icons/wave.gif" />
+    <img height="40px" class="title-main_gif" src="./assets/icons/wave.gif" />
     , I'm Luis Mariano
 </h1>
 
